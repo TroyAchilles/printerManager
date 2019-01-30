@@ -1,0 +1,1 @@
+#Framework of printer manager
